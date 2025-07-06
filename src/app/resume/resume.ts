@@ -6,4 +6,9 @@ import { Component } from '@angular/core';
   templateUrl: './resume.html',
   styleUrls: ['./resume.scss']
 })
-export class ResumeComponent {}
+export class ResumeComponent {
+
+  downloadResume(){
+    
+  }
+}
