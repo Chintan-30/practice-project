@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/practice-project',
   supportedLocales: {
   "en-US": ""
 },

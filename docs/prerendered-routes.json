@@ -1,7 +1,7 @@
 {
   "routes": {
-    "/": {},
-    "/my-work": {},
-    "/resume": {}
+    "/practice-project": {},
+    "/practice-project/my-work": {},
+    "/practice-project/resume": {}
   }
 }
