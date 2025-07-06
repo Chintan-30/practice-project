@@ -9,7 +9,6 @@
     "test": "ng test",
     "serve:ssr:practice-project": "node dist/practice-project/server/server.mjs",
     "gh-deploy": "ng build --configuration=production --output-path=docs --base-href=/practice-project/"
-
   },
   "private": true,
   "dependencies": {
@@ -26,6 +25,7 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "^20.0.5",
     "@angular/build": "^20.0.3",
     "@angular/cli": "^20.0.3",
     "@angular/compiler-cli": "^20.0.0",
